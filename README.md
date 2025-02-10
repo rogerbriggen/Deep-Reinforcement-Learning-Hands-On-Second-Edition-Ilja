@@ -1,6 +1,12 @@
 # Deep-Reinforcement-Learning-Hands-On-Second-Edition
 Deep-Reinforcement-Learning-Hands-On-Second-Edition, published by Packt
 
+# This old shit
+pip install torch==1.7.0+cu110 torchvision==0.8.0+cu110 torchaudio==0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+conda might now run through... then add the missing stuff with pip install -r requirements_ilja.txt
+
+
 ## Code branches
 The repository is maintained to keep dependency versions up-to-date. 
 This requires efforts and time to test all the examples on new versions, so, be patient.
